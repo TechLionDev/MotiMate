@@ -28,7 +28,7 @@ function About() {
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-semibold text-gray-900">Contact Us</h2>
           <p className="text-lg text-gray-600 mt-4">
-            Have questions or feedback? We'd love to hear from you. Contact us at support@motimate.com.
+            Have questions or feedback? We&apos;d love to hear from you. Contact us at support@motimate.com.
           </p>
         </div>
       </section>
